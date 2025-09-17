@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
+  - `Object`: 🎓 known
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
+  - `BigInt`: 🎓 known
+  - `String`: 🎓 known
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - `this`: 🎓 known
+  - `instanceof`: 🎓 known
   - `...spread`
   - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
+  - `typeof`: 🎓 known
+  - Destructuring: 👂 heard
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
   - Chaining
@@ -29,70 +29,70 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters: 🎓 known
   - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - `prototype`: 🎓 known
+  - Equality operators: 🎓 known
+  - Logical operators: 🎓 known
+  - Logical Assignment: 🎓 known
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🎓 known
+  - `void`: 🎓 known
   - `yield`
   - `await`
   - Template literal
   - Strict mode
   - Hoisting
   - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - `in`: 🎓 known
+  - `super`: 🎓 known
+  - `eval`: 🎓 known
+  - `static`: 🎓 known
+  - `Number.parseInt`: 🎓 known
+  - `Number.parseFloat`: 🎓 known
+  - Property descriptors: 🎓 known
+  - Sealing properties: 🎓 known
+  - Freezing properties: 🎓 known
+  - Computed properties: 🎓 known
+  - Instance class fields: 🎓 known
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - `if`: 🎓 known
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
+  - `for..of`: 🎓 known
+  - `for await`: 🎓 known
+  - `throw`: 🎓 known
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
+  - `import`: 👂 heard
+  - `export`: 👂 heard
+  - `label`: 🎓 known
+  - `try..catch`: 🎓 known
+  - `switch`: 🎓 known
+  - `class`: 🎓 known
+  - `extends`: 🎓 known
+  - `with`: 👂 heard
+  - `new`: 🎓 known
 - Functions
   - Arrow function
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - Function declaration: 🎓 known
+  - Function expression: 🎓 known
+  - Default parameters: 🎓 known
+  - Functional object: 👂 heard
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
+  - `return`: 🎓 known
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array`: 🎓 known
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -114,9 +114,9 @@
   - `console`
   - Timers
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8: 👂 heard
+  - Node.js: 👂 heard
+  - npm: 👂 heard
+  - prettier: 👂 heard
+  - MDN: 👂 heard
   - TC39

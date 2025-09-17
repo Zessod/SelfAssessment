@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
+  - Event loop: 🎓 known
   - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
+  - Thread pool: 🎓 known
+  - Pattern Reactor: 👂 heard
+  - CAS operations: 🎓 known
+  - epoll: 👂 heard
+  - kqueue: 👂 heard
+  - Completion ports: 👂 heard
+  - Event ports: 👂 heard
+  - libuv: 👂 heard
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Actor Model: 👂 heard
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
+  - Callbacks: 🎓 known
+  - Callback-last-error-first: 👂 heard
+  - Thenable: 👂 heard
+  - Promise: 🎓 known
+  - Async/await: 🎓 known
+  - Future: 🎓 known
+  - Deferred: 🎓 known
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
+  - Event: 🎓 known
+  - Coroutine: 🖐️ used
   - Goroutine
-  - Signal
-  - Stream
+  - Signal: 👂 heard
+  - Stream: 🎓 known
   - Chain of responsibility
-  - Middleware
-  - Locks
+  - Middleware: 👂 heard
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -48,16 +48,16 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
+  - Observable/Observer: 🎓 known
   - Readable
   - Writable
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
+  - Spin Lock: 🎓 known
 - JavaScript & Node.js specific
   - Timers
   - `setImmediate`
@@ -78,12 +78,12 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library
+  - RxJS library: 👂 heard
   - Promise.all
   - Promise.allSettled
   - Promise.race
   - Promise.any
   - Web Locks API
-  - IPC
+  - IPC: 🎓 known
   - Channel API
   - Revealing constructor
