@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Event loop k
+  - `try..catch` 
+  - Non-blocking k
+  - Async I/O k
+  - Thread pool k
+  - Pattern Reactor h
+  - CAS operations k
+  - epoll h
+  - kqueue h
+  - Completion ports h
+  - Event ports h
+  - libuv h
+  - Race conditions k
+  - Dead locks k
+  - Live locks k
+  - Concurrent programming k
+  - Parallel programming k
+  - Actor Model h
+  - Thread u
+  - Process u
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
+  - Callbacks k
+  - Callback-last-error-first h
+  - Thenable h
+  - Promise k
+  - Async/await k
+  - Future k
+  - Deferred k
+  - Sync generator k
+  - Async Generator k
+  - Async Iterator k
+  - Event k
+  - Coroutine u
   - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Signal h
+  - Stream k
+  - Chain of responsibility 
+  - Middleware h
+  - Locks u
 - Async adapters and utils
   - callbackify
   - promisify
@@ -48,16 +48,16 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
-  - Readable
+  - Observable/Observer k
+  - Readable 
   - Writable
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - Semaphore u
+  - Mutex u
+  - Spin Lock k
 - JavaScript & Node.js specific
   - Timers
   - `setImmediate`
@@ -78,12 +78,12 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library
-  - Promise.all
+  - RxJS library h
+  - Promise.all 
   - Promise.allSettled
   - Promise.race
   - Promise.any
   - Web Locks API
-  - IPC
-  - Channel API
+  - IPC k
+  - Channel API 
   - Revealing constructor

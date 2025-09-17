@@ -1,89 +1,89 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
-  - Inversion of Control
-  - Dependency Injection
-  - GoF Creational
-  - GoF Structural
-  - GoF Behavioral
+  - Separation of concerns u
+  - Inversion of Control u
+  - Dependency Injection u
+  - GoF Creational k
+  - GoF Structural k
+  - GoF Behavioral k
   - GRASP
-  - SOLID
-  - CQS
-  - Modularity
-  - Subsystems
-  - Directories
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - SOLID k
+  - CQS u
+  - Modularity u
+  - Subsystems u 
+  - Directories u
+  - Leaking abstractions u
+  - Multiparadigm code u
+  - Contract programming k
+  - Platform-agnostic u
+  - Transport-agnostic h
+  - Framework-agnostic k
+  - Code coverage u
+  - Cohesion u
+  - Coupling u
+  - Cyclomatic complexity u
+  - Reliability k
+  - Quality k
+  - Availability k
+  - Flexibility k
+  - Law of Demeter (LoD) k
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer h
+  - Domain-specific language (DSL) k
   - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
-  - Agent
-  - Service locator
-  - Message Queue (MQ)
-  - CQRS
+  - Multilayer approach k
+  - Hexagonal architecture k
+  - Separation of concerns (SoC) k
+  - Metaprogramming k
+  - Inversion of control (IoC) k
+  - Dependency injection (DI) k
+  - Clean architecture k
+  - Domain-driven design (DDD) k
+  - Pub/sub k
+  - Message brocker k
+  - Agent h
+  - Service locator k
+  - Message Queue (MQ) k
+  - CQRS 
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling k
+  - Entity-relationship diagram k
   - IDEF1X
-  - UML
+  - UML u
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
+  - Budget estimation k
+  - Distributed systems k
+  - High-intensive computing k
+  - Load balancing k
   - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
-  - Vendor lock-in
-  - Bus factor
+  - On-premises k
+  - IaaS k
+  - PaaS k
+  - SaaS k
+  - FaaS clouds h
+  - Serverless h
+  - Vendor lock-in k
+  - Bus factor k
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
-  - BPMN
-  - Low-code
-  - No-code
-  - Metric
-  - Metric abuse
-  - ACID
-  - CAP theorem
-  - Single source of truth (SSOT)
+  - A software requirements specification (SRS) k
+  - Solution visions k
+  - Solution capabilities k
+  - System design k
+  - Process modelling k
+  - Data modelling k
+  - Solution components k
+  - Risk assessment k
+  - Non Functional Requirements (NFR) k
+  - Clouds k
+  - BPMN h
+  - Low-code k
+  - No-code k
+  - Metric k
+  - Metric abuse k
+  - ACID k
+  - CAP theorem k
+  - Single source of truth (SSOT) k
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy
@@ -100,6 +100,6 @@
   - Business Intelligence
   - OLAP
   - OLTP
-  - Conways Law
+  - Conways Law k
   - Quality assurance
   - Engineering Hygiene
