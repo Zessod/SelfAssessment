@@ -1,89 +1,89 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns u
-  - Inversion of Control u
-  - Dependency Injection u
-  - GoF Creational k
-  - GoF Structural k
-  - GoF Behavioral k
+  - Separation of concerns: 🖐️ used
+  - Inversion of Control: 🖐️ used
+  - Dependency Injection: 🖐️ used
+  - GoF Creational: 🎓 known
+  - GoF Structural: 🎓 known
+  - GoF Behavioral: 🎓 known
   - GRASP
-  - SOLID k
-  - CQS u
-  - Modularity u
-  - Subsystems u 
-  - Directories u
-  - Leaking abstractions u
-  - Multiparadigm code u
-  - Contract programming k
-  - Platform-agnostic u
-  - Transport-agnostic h
-  - Framework-agnostic k
-  - Code coverage u
-  - Cohesion u
-  - Coupling u
-  - Cyclomatic complexity u
-  - Reliability k
-  - Quality k
-  - Availability k
-  - Flexibility k
-  - Law of Demeter (LoD) k
+  - SOLID: 🎓 known
+  - CQS: 🖐️ used
+  - Modularity: 🖐️ used
+  - Subsystems: 🖐️ used
+  - Directories: 🖐️ used
+  - Leaking abstractions: 🖐️ used
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 🎓 known
+  - Platform-agnostic: 🖐️ used
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 🎓 known
+  - Code coverage: 🖐️ used
+  - Cohesion: 🖐️ used
+  - Coupling: 🖐️ used
+  - Cyclomatic complexity: 🖐️ used
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD): 🎓 known
 - Application architecture
-  - Isolation between layer h
-  - Domain-specific language (DSL) k
+  - Isolation between layer: 👂 heard
+  - Domain-specific language (DSL): 🎓 known
   - System vs applied code
-  - Multilayer approach k
-  - Hexagonal architecture k
-  - Separation of concerns (SoC) k
-  - Metaprogramming k
-  - Inversion of control (IoC) k
-  - Dependency injection (DI) k
-  - Clean architecture k
-  - Domain-driven design (DDD) k
-  - Pub/sub k
-  - Message brocker k
-  - Agent h
-  - Service locator k
-  - Message Queue (MQ) k
-  - CQRS 
+  - Multilayer approach: 🎓 known
+  - Hexagonal architecture: 🎓 known
+  - Separation of concerns (SoC): 🎓 known
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🎓 known
+  - Dependency injection (DI): 🎓 known
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 🎓 known
+  - Pub/sub: 🎓 known
+  - Message brocker: 🎓 known
+  - Agent: 👂 heard
+  - Service locator: 🎓 known
+  - Message Queue (MQ): 🎓 known
+  - CQRS
   - Event sourcing
-  - E-R data modeling k
-  - Entity-relationship diagram k
+  - E-R data modeling: 🎓 known
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation k
-  - Distributed systems k
-  - High-intensive computing k
-  - Load balancing k
+  - Budget estimation: 🎓 known
+  - Distributed systems: 🎓 known
+  - High-intensive computing: 🎓 known
+  - Load balancing: 🎓 known
   - Gateways
-  - On-premises k
-  - IaaS k
-  - PaaS k
-  - SaaS k
-  - FaaS clouds h
-  - Serverless h
-  - Vendor lock-in k
-  - Bus factor k
+  - On-premises: 🎓 known
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🎓 known
+  - FaaS clouds: 👂 heard
+  - Serverless: 👂 heard
+  - Vendor lock-in: 🎓 known
+  - Bus factor: 🎓 known
 - Solution architecture
-  - A software requirements specification (SRS) k
-  - Solution visions k
-  - Solution capabilities k
-  - System design k
-  - Process modelling k
-  - Data modelling k
-  - Solution components k
-  - Risk assessment k
-  - Non Functional Requirements (NFR) k
-  - Clouds k
-  - BPMN h
-  - Low-code k
-  - No-code k
-  - Metric k
-  - Metric abuse k
-  - ACID k
-  - CAP theorem k
-  - Single source of truth (SSOT) k
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 🎓 known
+  - Solution capabilities: 🎓 known
+  - System design: 🎓 known
+  - Process modelling: 🎓 known
+  - Data modelling: 🎓 known
+  - Solution components: 🎓 known
+  - Risk assessment: 🎓 known
+  - Non Functional Requirements (NFR): 🎓 known
+  - Clouds: 🎓 known
+  - BPMN: 👂 heard
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
+  - Metric: 🎓 known
+  - Metric abuse: 🎓 known
+  - ACID: 🎓 known
+  - CAP theorem: 🎓 known
+  - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy
@@ -100,6 +100,6 @@
   - Business Intelligence
   - OLAP
   - OLTP
-  - Conways Law k
+  - Conways Law: 🎓 known
   - Quality assurance
   - Engineering Hygiene

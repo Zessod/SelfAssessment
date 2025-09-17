@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop k
-  - `try..catch` 
-  - Non-blocking k
-  - Async I/O k
-  - Thread pool k
-  - Pattern Reactor h
-  - CAS operations k
-  - epoll h
-  - kqueue h
-  - Completion ports h
-  - Event ports h
-  - libuv h
-  - Race conditions k
-  - Dead locks k
-  - Live locks k
-  - Concurrent programming k
-  - Parallel programming k
-  - Actor Model h
-  - Thread u
-  - Process u
+  - Event loop: 🎓 known
+  - `try..catch`
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
+  - Thread pool: 🎓 known
+  - Pattern Reactor: 👂 heard
+  - CAS operations: 🎓 known
+  - epoll: 👂 heard
+  - kqueue: 👂 heard
+  - Completion ports: 👂 heard
+  - Event ports: 👂 heard
+  - libuv: 👂 heard
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Actor Model: 👂 heard
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks k
-  - Callback-last-error-first h
-  - Thenable h
-  - Promise k
-  - Async/await k
-  - Future k
-  - Deferred k
-  - Sync generator k
-  - Async Generator k
-  - Async Iterator k
-  - Event k
-  - Coroutine u
+  - Callbacks: 🎓 known
+  - Callback-last-error-first: 👂 heard
+  - Thenable: 👂 heard
+  - Promise: 🎓 known
+  - Async/await: 🎓 known
+  - Future: 🎓 known
+  - Deferred: 🎓 known
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
+  - Event: 🎓 known
+  - Coroutine: 🖐️ used
   - Goroutine
-  - Signal h
-  - Stream k
-  - Chain of responsibility 
-  - Middleware h
-  - Locks u
+  - Signal: 👂 heard
+  - Stream: 🎓 known
+  - Chain of responsibility
+  - Middleware: 👂 heard
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -48,16 +48,16 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer k
-  - Readable 
+  - Observable/Observer: 🎓 known
+  - Readable
   - Writable
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore u
-  - Mutex u
-  - Spin Lock k
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
+  - Spin Lock: 🎓 known
 - JavaScript & Node.js specific
   - Timers
   - `setImmediate`
@@ -78,12 +78,12 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library h
-  - Promise.all 
+  - RxJS library: 👂 heard
+  - Promise.all
   - Promise.allSettled
   - Promise.race
   - Promise.any
   - Web Locks API
-  - IPC k
-  - Channel API 
+  - IPC: 🎓 known
+  - Channel API
   - Revealing constructor

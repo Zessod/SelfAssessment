@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object` k
-  - `Function` k
-  - `Boolean` k
-  - `Number` k
-  - `BigInt` k
-  - `String` k
-  - `Symbol` k
-  - `Infinity` k
-  - `NaN` k
-  - `undefined` k
-  - `null` k
-  - `this` k
-  - `instanceof` k
+  - `Object`: 🎓 known
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
+  - `BigInt`: 🎓 known
+  - `String`: 🎓 known
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - `this`: 🎓 known
+  - `instanceof`: 🎓 known
   - `...spread`
   - `...rest`
-  - `typeof` k
-  - Destructuring h
-  - Generators h
-  - Iterators h
+  - `typeof`: 🎓 known
+  - Destructuring: 👂 heard
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
   - Chaining
@@ -29,70 +29,70 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters k
+  - Getters and setters: 🎓 known
   - `__proto__`
-  - `prototype` k
-  - Equality operators k
-  - Logical operators k
-  - Logical Assignment k
-  - Bitwise operators k
-  - Ternary operator k
-  - `void` k
+  - `prototype`: 🎓 known
+  - Equality operators: 🎓 known
+  - Logical operators: 🎓 known
+  - Logical Assignment: 🎓 known
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🎓 known
+  - `void`: 🎓 known
   - `yield`
   - `await`
   - Template literal
   - Strict mode
   - Hoisting
   - `delete`
-  - `in` k
-  - `super` k
-  - `eval` k
-  - `static` k
-  - `Number.parseInt` k
-  - `Number.parseFloat` k
-  - Property descriptors  k
-  - Sealing properties k
-  - Freezing properties k
-  - Computed properties k
-  - Instance class fields k
-  - Static class fields k
-  - Private class fields k
-  - Private class methods k
+  - `in`: 🎓 known
+  - `super`: 🎓 known
+  - `eval`: 🎓 known
+  - `static`: 🎓 known
+  - `Number.parseInt`: 🎓 known
+  - `Number.parseFloat`: 🎓 known
+  - Property descriptors: 🎓 known
+  - Sealing properties: 🎓 known
+  - Freezing properties: 🎓 known
+  - Computed properties: 🎓 known
+  - Instance class fields: 🎓 known
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
-  - `if` k
-  - `while` k
-  - `do..while` k
-  - `for` k
-  - `for..in` k
-  - `for..of` k
-  - `for await` k
-  - `throw` k
-  - `break` k
-  - `continue` k
-  - `import` h
-  - `export` h
-  - `label` k
-  - `try..catch` k
-  - `switch` k
-  - `class` k
-  - `extends` k
-  - `with` h
-  - `new` k
+  - `if`: 🎓 known
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
+  - `for..of`: 🎓 known
+  - `for await`: 🎓 known
+  - `throw`: 🎓 known
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
+  - `import`: 👂 heard
+  - `export`: 👂 heard
+  - `label`: 🎓 known
+  - `try..catch`: 🎓 known
+  - `switch`: 🎓 known
+  - `class`: 🎓 known
+  - `extends`: 🎓 known
+  - `with`: 👂 heard
+  - `new`: 🎓 known
 - Functions
   - Arrow function
   - Async function
-  - Function declaration k
-  - Function expression k
-  - Default parameters k
-  - Functional object h
-  - `Function.prototype.call` h
-  - `Function.prototype.bind` h
-  - `Function.prototype.apply` h
-  - `return` k
+  - Function declaration: 🎓 known
+  - Function expression: 🎓 known
+  - Default parameters: 🎓 known
+  - Functional object: 👂 heard
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
+  - `return`: 🎓 known
 - Data structures
-  - `Array` k
-  - `Map` k
-  - `Set` k
+  - `Array`: 🎓 known
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -114,9 +114,9 @@
   - `console`
   - Timers
 - Infrastructure
-  - V8 h
-  - Node.js h
-  - npm h
-  - prettier h
-  - MDN h
+  - V8: 👂 heard
+  - Node.js: 👂 heard
+  - npm: 👂 heard
+  - prettier: 👂 heard
+  - MDN: 👂 heard
   - TC39
